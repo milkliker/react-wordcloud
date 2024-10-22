@@ -1,11 +1,11 @@
 {
-  "name": "react-wordcloud",
-  "version": "1.2.7",
+  "name": "react-wordcloud-react18",
+  "version": "1.3.0",
   "description": "Simple React + D3 wordcloud component with powerful features.",
   "license": "MIT",
   "homepage": "https://react-wordcloud.netlify.com/",
-  "repository": "chrisrzhou/react-wordcloud",
-  "bugs": "https://github.com/chrisrzhou/react-wordcloud/issues",
+  "repository": "milkliker/react-wordcloud",
+  "bugs": "https://github.com/milkliker/react-wordcloud/issues",
   "author": "Chris Zhou <chrisrzhou@pm.me> (https://chrisrzhou.io)",
   "keywords": [
     "react",
@@ -53,18 +53,17 @@
     "@types/lodash.clonedeep": "^4.5.6",
     "@types/lodash.debounce": "^4.0.6",
     "@types/seedrandom": "^2.4.28",
-    "docz": "^2.3.1",
     "eslint-config-xo-react": "^0.23.0",
     "eslint-config-xo-typescript": "^0.31.0",
     "husky": "^4.2.5",
     "microbundle": "^0.12.3",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "typescript": "^3.8.3",
     "xo": "^0.32.1"
   },
   "peerDependencies": {
-    "react": "^16.13.0"
+    "react": "^18.2.0"
   },
   "husky": {
     "hooks": {
